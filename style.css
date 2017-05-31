@@ -1,0 +1,103 @@
+.description {
+    display: flex;
+}
+.first {
+    width: 350px;
+    height: 300px;
+}
+.welcome {
+    height: 100px;
+    font-size: 40px;
+    text-align: center;
+}
+.signa {
+    height: 50px;
+    font-size: 20px;
+    text-align: center;
+}
+.signb {
+    height: 200px;
+    font-size: 25px;
+    text-align: center;
+}
+.second {
+    width: 400px;
+    height: 300px;
+}
+.Explore {
+    height: 50px;
+    font-size: 20px;
+}
+.third {
+    width: 400px;
+    height: 300px;
+}
+.forth {
+    width: 350px;
+    height: 300px;
+}
+.dresses {
+    height: 50px;
+    font-size: 20px;
+}
+.imga {
+    display: block;
+    margin: auto;
+    width: 100%;
+}
+.imgb {
+    display: block;
+    margin: auto;
+    width: 100%;
+}
+.imgc {
+    display: block;
+    margin: auto;
+    width: 100%;
+}
+.imgd {
+    display: block;
+    margin: auto;
+    width: 100%;
+}
+.sdfirst {
+    display: flex;
+}
+.sdsecond {
+    display: flex;
+}
+
+.sdthird {
+    display: flex;
+}
+.sdforth {
+    display: flex;
+    height: 60px;
+}
+.home {
+    height: 30px;
+    width: 210px;
+}
+.pets {
+    height: 30px;
+    width: 210px;
+}
+.Ad {
+    height: 50px;
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+.deal {
+    font-size: 25px;
+    height: 50px;
+}
+.imge {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+
+
+
+
